@@ -1,5 +1,9 @@
 # ListStore
+>## Meus primeiros passos com Angular 7, Angular CLI 11 e Typescript.
+>### Construindo uma aplicação front end do zero de lista de mercado, aprendendo e lidando com conceitos em Angular 7 e typescript.
 
+***
+# Como começar com Angular CLI?
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 
 ## Development server
